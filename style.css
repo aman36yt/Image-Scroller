@@ -29,6 +29,7 @@ body{
 
 .img-container{
     display: flex;
+    transition:transform 0.4s ease-in-out;
     /* transform: translate(-600px); */
 }
 
