@@ -1,9 +1,26 @@
-# About --
-This is a simple image Scroller .
-we can Scroll images through left and right icons.
-Built by Aman.
+# 🖼️ Image Scroller
 
-# Technologies Used --
-HTML5-- Structuring.
-CSS3-- User InterFace.
-JavaScript--Functionality and intractive..
+A simple Image Scroller built using HTML, CSS, and JavaScript with WEb images integration.
+
+## 🚀 Features
+
+* Scroll images smoothly
+* Fetch images using WEb
+* Responsive design
+
+## 🛠️ Technologies Used
+
+* HTML
+* CSS
+* JavaScript
+
+
+## ▶️ How to Run
+
+1. Download or clone the project
+2. Open `index.html` in your browser
+
+
+## 📌 Note
+
+This is a beginner-friendly project.
